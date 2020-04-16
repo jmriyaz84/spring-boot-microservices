@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
 //import org.springframework.web.server.adapter.WebHttpHandlerBuilder;
 /*
 class MovieCatalogServiceApplication
+@author Riyaz
  */
 @SpringBootApplication
 @EnableEurekaClient
